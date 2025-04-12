@@ -21,11 +21,11 @@ export default function About() {
       
         <div className="text-gray-400 m-4 text-sm md:text-base md:text-center">
           <p><strong className="text-base md:text-lg">Nome: </strong> Jonathas Walbert Lacerda da R. de Souza</p>
-          <p><strong className="text-base md:text-lg">Graduacao: </strong>Engenheiro da computação - Completo </p>
-          <p><strong className="text-base md:text-lg">Tecnologo: </strong>Análise e desenvolvimento de software - Cursando</p>
-          <p><strong className="text-base md:text-lg">Pós graducao: </strong>Desenvolvimento Mobile - Completo</p>
-          <p><strong className="text-base md:text-lg">Pós graducao: </strong>Engenharia de software para dispositivos moveis - Incompleto</p>
-          <p><strong className="text-base md:text-lg">Pós graducao: </strong>Estrutura e gestao de redes - Incompleto</p>
+          <p><strong className="text-base md:text-lg">Graduação: </strong>Engenheiro da computação - Completo </p>
+          <p><strong className="text-base md:text-lg">Tecnólogo: </strong>Análise e desenvolvimento de software - Cursando</p>
+          <p><strong className="text-base md:text-lg">Pós gradução: </strong>Desenvolvimento Mobile - Completo</p>
+          <p><strong className="text-base md:text-lg">Pós gradução: </strong>Engenharia de software para dispositivos móveis - Incompleto</p>
+          <p><strong className="text-base md:text-lg">Pós gradução: </strong>Estrutura e gestão de redes - Incompleto</p>
         </div>
 
       <a
