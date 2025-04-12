@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme{
+  --color-blueBri: #1E1E2F;
+  --color-bgEspecial: #1A2B3C;
+  --color-greenEspecial: #10B981;
+}
+
+@layer utilities{
+  @keyframes pulse-hover {
+    0%, 100%{
+      transform: scale(1);
+    }
+    50%{
+      transform: scale(1.1);
+    }
+  }
+
+  .hover\:animate-pulse-hover:hover {
+    animation: pulse-hover 1s infinite;
+  }
+}
